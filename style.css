@@ -1,0 +1,28 @@
+body{
+    background: blue;
+}
+
+.conteiner{
+    width: 500px;
+    margin: 0 auto;
+}
+#add{
+    border-radius: 50x;
+}
+#input-todo{
+    border-radius: 30px;
+}
+#list{
+    border-radius: 40px;
+}
+.const{
+    margin: 10px;
+}
+.box{
+    border: 2px solid black;
+    border-radius: 30px;
+    padding: 20px 30px ;
+    margin: 10px;
+    background-color: aqua;
+    
+}
